@@ -1,0 +1,26 @@
+	(1)
+VARIABLES	Event Study FE
+	
+SD_1	-1.912
+	(1.398)
+SD_2	-1.679
+	(1.442)
+SD_3	1.626
+	(1.125)
+SD	0.397
+	(1.476)
+SD1	0.518
+	(1.443)
+SD2	-1.430
+	(1.403)
+SD3	2.566**
+	(1.056)
+Constant	5.139***
+	(0.404)
+	
+Observations	1,460
+R-squared	0.151
+month FE	YES
+year FE	YES
+Standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	
